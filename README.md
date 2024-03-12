@@ -1,6 +1,6 @@
-# About-Me
-Web Development:
+hey! I'am Kundan Rathore.
 
+Web Development:
 👨‍💻 Aspiring Software Engineer with a strong foundation in React JS.
 
 🌐 Building web applications using HTML, CSS, and JavaScript.
