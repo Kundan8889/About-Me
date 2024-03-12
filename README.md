@@ -1,4 +1,4 @@
-hey! I'am Kundan Rathore.
+Hey! I'am Kundan Rathore.
 
 Web Development:
 👨‍💻 Aspiring Software Engineer with a strong foundation in React JS.
